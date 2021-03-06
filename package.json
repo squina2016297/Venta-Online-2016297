@@ -1,0 +1,19 @@
+{
+  "name": "ventaonline2016297",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squina2016297/Venta-Online-2016297.git"
+  },
+  "author": "Selvyn Quiná",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/squina2016297/Venta-Online-2016297/issues"
+  },
+  "homepage": "https://github.com/squina2016297/Venta-Online-2016297#readme"
+}
